@@ -8,6 +8,11 @@ Es una aplicación que nos permite compartir noticias y que la comunidad las pue
 https://youtu.be/TMROfnFNyRQ
 
 ---
+# Codigo
+
+El código y el apk se encuentra en la rama Master de este mismo repo
+
+---
 
 Mi aplicación estará basada en el proyecto del primer trimestre. [https://github.com/JoseEstradaC/Newsuty-Kotlin](https://github.com/JoseEstradaC/Newsuty-Kotlin), la cual va a ser modificada para cumplir los objetivos de el proyecto.
 
