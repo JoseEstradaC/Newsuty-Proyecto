@@ -3,6 +3,11 @@
 Es una aplicación que nos permite compartir noticias y que la comunidad las pueda puntuar.
 
 ---
+# Video Explicativo
+
+https://youtu.be/TMROfnFNyRQ
+
+---
 
 Mi aplicación estará basada en el proyecto del primer trimestre. [https://github.com/JoseEstradaC/Newsuty-Kotlin](https://github.com/JoseEstradaC/Newsuty-Kotlin), la cual va a ser modificada para cumplir los objetivos de el proyecto.
 
