@@ -10,7 +10,7 @@ https://youtu.be/TMROfnFNyRQ
 ---
 # Codigo
 
-El código y el apk se encuentra en este repo https://github.com/JoseEstradaC/Newsuty-Kotlin
+El código y el apk se encuentra en este repo https://github.com/JoseEstradaC/Newsuty-Kotlin y https://github.com/JoseEstradaC/Newsuty-landing-python
 
 ---
 
