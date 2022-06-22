@@ -25,7 +25,15 @@ Mi aplicación estará basada en el proyecto del primer trimestre. [https://gith
 - Se creara una landing page que cumpla los criterios de DI usando angular y hosteado con Flask.
 
 ---
-
+## Bibliografía
+-[Firebase](https://firebase.google.com/docs)
+<br>
+-[Android](https://developer.android.com/)
+<br>
+-[Material](https://material.io/develop/android)
+<br>
+-Apuntes de clase
+<br>
 ## Base de datos
 
 ### News
